@@ -1,0 +1,2 @@
+python mychat\manage.py runserver 192.168.56.1:8000
+python mychat\manage.py runserver
